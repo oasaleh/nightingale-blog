@@ -1,0 +1,23 @@
+html {
+  background-color: #1d1f20;
+  color: white;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+#root {
+  margin: auto;
+  padding: auto;
+  width: 100%;
+}
+p {
+  color: #d6d7d8;
+}
+/* // background 1D1F20
+// less background 242628
+// grey 73777B
+// orange E79346
+// less orange E89444
+// off white D6D7D8
+// off orange EAA252 */
