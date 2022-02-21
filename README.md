@@ -13,5 +13,3 @@ A blogging space where everyone can write and read others' posts on the front pa
 
 ## Deploy
 To deploy please use instructions in `client` folder README.
-
-## Demo
